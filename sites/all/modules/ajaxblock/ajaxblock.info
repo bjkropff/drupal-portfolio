@@ -1,0 +1,5 @@
+name = My Ajax module for loading nodes
+description = Will loading nodes with Ajax.
+package = My Modules
+core = 7.x
+files[] = ajax.module
